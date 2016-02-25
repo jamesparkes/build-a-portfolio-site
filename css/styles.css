@@ -1,0 +1,40 @@
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+.portfolio-title, .portfolio-subtitle {
+	margin: 0.25em 0;
+}
+
+.featured-title {
+	margin-bottom: 1em;
+}
+
+.project {
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+.project-title {
+	margin: 0.75em 0 0.25em;
+	line-height: 1.25em;
+}
+
+.project-image {
+	border: 1px solid #E2E2E2;
+	box-shadow: 0 5px 6px -6px #777;
+	-webkit-box-shadow: 0 5px 6px -6px #777;
+	-moz-box-shadow: 0 5px 6px -6px #777;
+}
+
+.project-image, .project-image img {
+	border-radius: 10px;
+}
+
+.shrink {
+	transition: all .2s ease-in-out;
+}
+
+.shrink:hover {
+	transform: scale(0.9);
+}

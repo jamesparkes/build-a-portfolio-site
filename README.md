@@ -1,2 +1,2 @@
-# fend-p1-portfolio-site
-Project 1: Build a Portfolio Site for Udacity Front-End Nanodegree.
+# Build a Portfolio Site
+Project 1 for Udacity's Front-End Web Developer Nanodegree.
